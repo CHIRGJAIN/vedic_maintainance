@@ -26,7 +26,7 @@ const Index = () => {
         {/* Logo placeholder */}
         <div className="opacity-0 animate-fade-up">
           <div className="w-16 h-16 rounded-full border-2 border-saffron/40 flex items-center justify-center">
-            <img src="../public/favicon.ico" alt="Logo" className="w-full h-full object-cover border-radius:10 bg-white" />
+            <img src="favicon.ico" alt="Logo" className="w-full h-full object-cover border-radius:10 bg-white" />
           </div>
         </div>
 
